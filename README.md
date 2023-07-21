@@ -1,4 +1,4 @@
-### 👋 Hi, I'm CHEN Derun, Shanpoo 👋
+### <center>👋 Hi, I'm CHEN Derun, Shanpoo 👋</center>
 ### ✨ 你好，我是陈德润，你可以叫我山坡:) ✨
 
 **About me**
