@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm CHEN Derun, Shanpoo 👋 <br> ✨ 你好，我是陈德润，你可以叫我山坡:) ✨
 
-### 👨‍🎓 About me
+### 👨‍🎓 About me (From 1 Sept 2023)
 - A **Year 3 undergraduate student** at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
   - **Major** in [Computer Science](https://www.polyu.edu.hk/comp/)
 - An **Entrepreneur** in [Hong Kong Science and Technology Parks Corporation (HKSTP)](https://www.hkstp.org/)
