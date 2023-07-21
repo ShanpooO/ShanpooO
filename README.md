@@ -1,4 +1,4 @@
-## || 👋 Hi, I'm Shanpoo👋  <br> ✨ 你好，我是山坡:) ✨||
+##  <center>👋 Hi, I'm Shanpoo👋  <br> ✨ 你好，我是山坡:) ✨
 
 ### 👨‍🎓 About me (From 1 Sept 2023)
 - A **Year 3 undergraduate student** at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
