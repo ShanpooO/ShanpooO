@@ -21,13 +21,13 @@
 ### 📚 Non-Professional Skill
 
 - 🎬 Video & Photo Editing & Gaming:
-  - ✨**Premiere Pro**, ✨**Final Cut Pro**, ✨**Photoshop**, After Effects, Unity
+  - ✨**Premiere Pro**, ✨**Final Cut Pro**, Photoshop, After Effects, Unity
 
 - 🧩 Design:
   - **Figma, SAI2, Procreate**
 
 - 💻 Microsoft Office:
-  - **✨Word, ✨Excel, ✨PowerPoint**, Outlook
+  - **✨Word, ✨PowerPoint, Excel**, Outlook
 
 - 🎧 Music Production & Instrument:
   - Logic Pro X, Audition, GarageBand
