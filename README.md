@@ -39,7 +39,7 @@
 - [Jungle Game Project](https://github.com/ShanpooO/Jungle_Game_Project)
 - [Command Line Vector Graphics Software Project](https://github.com/ShanpooO/Command-Line_Vector_Graphics_Software)
 - [Workshops Enrollment System Project](https://github.com/ShanpooO/Workshops_Enrollment_System_Project)
-- Real-time Robotic Arm with Direct Sensing Project
+- Real-time Robotic Arm with Direct Sensing Project(Software & Hardware)
 <!--
 **ShanpooO/ShanpooO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
