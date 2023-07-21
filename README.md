@@ -40,6 +40,7 @@
 - [Command Line Vector Graphics Software Project](https://github.com/ShanpooO/Command-Line_Vector_Graphics_Software)
 - [Workshops Enrollment System Project](https://github.com/ShanpooO/Workshops_Enrollment_System_Project)
 - Real-time Robotic Arm with Direct Sensing Project(Software & Hardware)
+- [Micro Python on PyBoard Exploration Project](https://github.com/ShanpooO/Micro_Python)
 <!--
 **ShanpooO/ShanpooO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
