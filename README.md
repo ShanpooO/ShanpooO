@@ -33,7 +33,7 @@
   - Logic Pro X, Audition, GarageBand, Piano, Guitar
 
 ### 💡 Project Experience
-- Educational Application Development
+- Educational Application Development(Still Working)
 - [Appointment Organizer Project](https://github.com/ShanpooO/Appointment_Organizer_Project)
 - [Library Management System Project](https://github.com/ShanpooO/Library_Management_System_Project)
 - [Jungle Game Project](https://github.com/ShanpooO/Jungle_Game_Project)
