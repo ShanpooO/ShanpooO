@@ -3,7 +3,7 @@
 ### 👨‍🎓 About me
 - A **Year 3 undergraduate student** at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
   - **Major** in [Computer Science](https://www.polyu.edu.hk/comp/)
-- An **prospective Entrepreneur** in [Hong Kong Science and Technology Parks Corporation (HKSTP)](https://www.hkstp.org/en/our-incubation-programmes/)
+- An **prospective Entrepreneur** in [Hong Kong Science and Technology Parks Corporation (HKSTP)](https://www.hkstp.org/)
 - **Veteran Gamer**
 - Four years **Painting** experience, Two years **Piano** experience, self-taught **Guitar** experience
 
