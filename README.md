@@ -30,7 +30,7 @@
   - **✨Word, ✨Excel, ✨PowerPoint**, Outlook
 
 - 🎹 Music Production & Instrument:
-  - Logic Pro X, Audition, GarageBand, Piano, Guitar
+  - Logic Pro X, Audition, GarageBand
 
 ### 💡 Project Experience
 - Educational Application Development(Still Working)
