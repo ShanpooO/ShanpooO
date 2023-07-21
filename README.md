@@ -22,10 +22,13 @@
 
 - 🎬 Video & Photo Editing:
   - ✨**Premiere Pro**, ✨**Final Cut Pro**, ✨**Photoshop**, After Effects, Unity
+
 - 🎨 Design:
   - **Figma, SAI2, Procreate**
+
 - 💻 Microsoft Office:
   - **✨Word, ✨Excel, ✨PowerPoint**, Outlook
+
 - 🎹 Music Production & Instrument:
   - Logic Pro X, Audition, GarageBand, Piano, Guitar
 
