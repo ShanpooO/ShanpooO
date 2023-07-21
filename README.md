@@ -5,7 +5,7 @@
   - **Major** in [Computer Science](https://www.polyu.edu.hk/comp/)
 - An **Prospective Entrepreneur** in [Hong Kong Science and Technology Parks Corporation (HKSTP)](https://www.hkstp.org/)
 - **Veteran Gamer** 🎮 
-- Four years **Painting** experience, Two years **Piano** experience, self-taught **Guitar** experience
+- Four years 🎨 **Painting** experience, Two years 🎹 **Piano** experience, self-taught 🎸 **Guitar** experience
 
 ### 🧑‍💻 Professional Skill
 
@@ -23,13 +23,13 @@
 - 🎬 Video & Photo Editing & Gaming:
   - ✨**Premiere Pro**, ✨**Final Cut Pro**, ✨**Photoshop**, After Effects, Unity
 
-- 🎨 Design:
+- 🧩 Design:
   - **Figma, SAI2, Procreate**
 
 - 💻 Microsoft Office:
   - **✨Word, ✨Excel, ✨PowerPoint**, Outlook
 
-- 🎹 Music Production & Instrument:
+- 🎧 Music Production & Instrument:
   - Logic Pro X, Audition, GarageBand
 
 ### 💡 Project Experience
