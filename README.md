@@ -21,7 +21,7 @@
 ### 📚 Non-Professional Skill
 
 - 🎬 Video & Photo Editing & Gaming:
-  - ✨**Premiere Pro**, ✨**Final Cut Pro**, Photoshop, After Effects, Unity
+  - ✨**Premiere Pro**, ✨**Final Cut Pro**, Photoshop, After Effects
 
 - 🧩 Design:
   - **Figma, SAI2, Procreate**
