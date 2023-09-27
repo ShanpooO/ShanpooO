@@ -33,6 +33,10 @@
   - Logic Pro X, Audition, GarageBand
 
 ### 💡 Project Experience
+- Smart Aquaculture AI (Feelings & Aquatech Asia Limited)
+- AI Avatar Coaching (Feelings & Caritas Hong Kong)
+- Skybox (Feelings & Blockadelabs)
+- Oral Motor (Feelings & Caritas Hong Kong)
 - Educational Application Development(Still Working)
 - [Appointment Organizer Project](https://github.com/ShanpooO/Appointment_Organizer_Project)
 - [Library Management System Project](https://github.com/ShanpooO/Library_Management_System_Project)
