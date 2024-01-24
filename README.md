@@ -26,9 +26,6 @@
 - 🧩 Design:
   - **Figma, SAI2, Procreate**
 
-- 💻 Microsoft Office:
-  - **✨Word, ✨PowerPoint, Excel**, Outlook
-
 - 🎧 Music Production & Instrument:
   - Logic Pro X, Audition, GarageBand
 
