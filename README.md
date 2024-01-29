@@ -5,7 +5,6 @@
   - **Major** in [Computer Science](https://www.polyu.edu.hk/comp/)
 - A **Prospective Entrepreneur**
 - **Veteran Gamer** 🎮 
-- Four years 🎨**Painting** experience, Two years 🎹**Piano** experience, self-taught 🎸**Guitar** experience
 
 ### 🧑‍💻 Professional Skill
 
