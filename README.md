@@ -9,7 +9,7 @@
 ### 🧑‍💻 Professional Skill
 
 - Programming:
-  - **✨Java, ✨Python, C/C++, Swift/Objective-C, Linux, MySQL**, TCP/IP, HTTP, HTML5, CSS, JavaScript
+  - **✨Java, ✨Python, C/C++, Swift/Objective-C, Linux**, HTML5, CSS, JavaScript
 
 - Framework:
   - **Spring Boot**, Hexo, Docker(Container)
@@ -26,7 +26,7 @@
   - **Figma, SAI2, Procreate**
 
 - 🎧 Music Production & Instrument:
-  - Logic Pro X, Audition, GarageBand
+  - Logic Pro X, Audition
 
 ### 💡 Project Experience
 - Smart Aquaculture AI (Feelings & Aquatech Asia Limited)
