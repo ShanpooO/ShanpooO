@@ -1,9 +1,9 @@
 ##  <center> 👋 Hi, I'm Shanpoo👋  <br> ✨ 你好，我是山坡:) ✨
 
 ### 👨‍🎓 About me (From 1 Sept 2023)
-- A **Year 4 undergraduate student** at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
-  - **Major** in [Computer Science](https://www.polyu.edu.hk/comp/)
-- A **Prospective Entrepreneur**
+- An ** undergraduate student** at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
+  - **Major** in [Computing](https://www.polyu.edu.hk/comp/)
+- An **Entrepreneur**
 - **Veteran Gamer** 🎮 
 
 ### 🧑‍💻 Professional Skill
