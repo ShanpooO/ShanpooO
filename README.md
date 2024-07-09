@@ -1,6 +1,6 @@
 ##  <center> 👋 Hi, I'm Shanpoo👋  <br> ✨ 你好，我是山坡:) ✨
 
-### 👨‍🎓 About me (From 1 Sept 2023)
+### 👨‍🎓 About me (From 1 July 2024)
 - An **undergraduate student** at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
   - **Major** in [Computing](https://www.polyu.edu.hk/comp/)
 - An **Entrepreneur**
