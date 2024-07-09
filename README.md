@@ -27,6 +27,9 @@
 
 - 🎧 Music Production & Instrument:
   - Logic Pro X, Audition
+ 
+### 📚 Research Program
+- DreamScape: High-Fidelity and Time-Saving Balanced Text-to-3D Scene Reconstruction (Final Year Capstone Project)
 
 ### 💡 Project Experience
 - Smart Aquaculture AI (Feelings & Aquatech Asia Limited)
