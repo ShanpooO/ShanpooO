@@ -8,7 +8,7 @@
 ### 🧑‍💻 Professional Skill
 
 - Programming:
-  - **✨Java, ✨Python, C/C++, Swift, Linux, Scikit-learn, TensorFlow, PyTorch**, Flutter, Objective-C, HTML5, CSS, JavaScript/TypeScript, SQL(MySQL, Oracle), 
+  - **✨Java, ✨Python, C/C++, Swift, Linux, Scikit-learn, TensorFlow, PyTorch**, Flutter, Objective-C, HTML5, CSS, JavaScript/TypeScript, SQL(MySQL, Oracle)
 
 - Framework & Process Control:
   - **Docker/Kubernetes**, Hexo, Spring Boot, **DevOps**, Jenkins/GitLab
