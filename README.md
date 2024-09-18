@@ -3,16 +3,18 @@
 ### 👨‍🎓 About me (From 1 July 2024)
 - An **undergraduate student** at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
   - **Major** in [Computing](https://www.polyu.edu.hk/comp/)
-- An **Entrepreneur**
 - **Veteran Gamer** 🎮 
 
 ### 🧑‍💻 Professional Skill
 
 - Programming:
-  - **✨Java, ✨Python, C/C++, Swift/Objective-C, Linux**, HTML5, CSS, JavaScript
+  - **✨Java, ✨Python, C/C++, Swift, Linux, Scikit-learn, TensorFlow, PyTorch**, Flutter, Objective-C, HTML5, CSS, JavaScript/TypeScript, SQL(MySQL, Oracle), 
 
-- Framework:
-  - **Spring Boot**, Hexo, Docker(Container)
+- Framework & Process Control:
+  - **Docker/Kubernetes**, Hexo, Spring Boot, **DevOps**, Jenkins/GitLab
+ 
+- Software Development Pattern:
+  - **MVC Pattern, Waterflow Software Development, Agile Software Development**
   
 - Hardware:
   - Arduino, Micro-Python
@@ -23,7 +25,7 @@
   - ✨**Premiere Pro**, ✨**Final Cut Pro**, Photoshop, After Effects
 
 - 🧩 Design:
-  - **Figma, SAI2, Procreate**
+  - **Blender, Figma**
 
 - 🎧 Music Production & Instrument:
   - Logic Pro X, Audition
