@@ -2,8 +2,7 @@
 
 ### 👨‍🎓 About me (From 1 July 2024)
 - An **undergraduate student** at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
-  - **Major** in [Computing](https://www.polyu.edu.hk/comp/)
-- **Veteran Gamer** 🎮 
+  - **Major** in [Computing](https://www.polyu.edu.hk/comp/) 
 
 ### 🧑‍💻 Professional Skill
 
