@@ -7,37 +7,33 @@
 ### 🧑‍💻 Professional Skill
 
 - Programming:
-  - **✨Java, ✨Python, C/C++, Swift, Linux, Scikit-learn, TensorFlow, PyTorch**, Flutter, Objective-C, HTML5, CSS, JavaScript/TypeScript, SQL(MySQL, Oracle)
+  - **✨Java, ✨Python, C/C++, Swift, Linux, Scikit-learn, TensorFlow, ✨PyTorch, ✨Flutter, ✨JavaScript/TypeScript, ✨SQL**
 
 - Framework & Process Control:
   - **Docker/Kubernetes**, Hexo, Spring Boot, **DevOps**, Jenkins/GitLab
- 
-- Software Development Pattern:
-  - **MVC Pattern, Waterflow Software Development, Agile Software Development**
   
 - Hardware:
-  - Arduino, Micro-Python
+  - Arduino, STM32
 
 ### 📚 Non-Professional Skill
 
-- 🎬 Video & Photo Editing & Gaming:
+- 🎬 Video & Photo Editing:
   - ✨**Premiere Pro**, ✨**Final Cut Pro**, Photoshop, After Effects
 
 - 🧩 Design:
   - **Blender, Figma**
-
-- 🎧 Music Production & Instrument:
-  - Logic Pro X, Audition
  
 ### 📚 Research Program
 - DreamScape: High-Fidelity and Time-Saving Balanced Text-to-3D Scene Reconstruction (Final Year Capstone Project)
 
 ### 💡 Project Experience
+- Orar AIoT Equipment (Feelings & PolyU)
+- Orar APP (Feelings & PolyU)
 - Smart Aquaculture AI (Feelings & Aquatech Asia Limited)
 - AI Avatar Coaching (Feelings & Caritas Hong Kong)
 - Skybox (Feelings & Blockadelabs)
 - Oral Motor (Feelings & Caritas Hong Kong)
-- Educational Application Development(Still Working)
+- Educational Application Development(EduHK Cooperation)
 - [Appointment Organizer Project](https://github.com/ShanpooO/Appointment_Organizer_Project)
 - [Library Management System Project](https://github.com/ShanpooO/Library_Management_System_Project)
 - [Jungle Game Project](https://github.com/ShanpooO/Jungle_Game_Project)
