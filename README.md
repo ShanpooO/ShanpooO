@@ -18,7 +18,7 @@
 ### 📚 Other Skill
 
 - 🎬 Video & Photo Editing:
-  - ✨**Premiere Pro**, ✨**Final Cut Pro**, Photoshop, After Effects
+  - **Premiere Pro, Final Cut Pro**, Photoshop, After Effects
 
 - 🧩 Design:
   - **Blender, Figma**
