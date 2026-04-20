@@ -7,15 +7,15 @@
 ### 🧑‍💻 Professional Skill
 
 - Programming:
-  - **✨Java, ✨Python, C/C++, Swift, Linux, Scikit-learn, TensorFlow, ✨PyTorch, ✨Flutter, ✨JavaScript/TypeScript, ✨SQL**
+  - **Python/PyTorch**, Java, C/C++, Swift, Linux, TensorFlow, Flutter, TypeScript, SQL
 
 - Framework & Process Control:
-  - **Docker/Kubernetes**, Hexo, Spring Boot, **DevOps**, Jenkins/GitLab
+  - **DevOps**, Jenkins
   
 - Hardware:
   - Arduino, STM32
 
-### 📚 Non-Professional Skill
+### 📚 Other Skill
 
 - 🎬 Video & Photo Editing:
   - ✨**Premiere Pro**, ✨**Final Cut Pro**, Photoshop, After Effects
@@ -25,6 +25,7 @@
  
 ### 📚 Research Program
 - DreamScape: High-Fidelity and Time-Saving Balanced Text-to-3D Scene Reconstruction (Final Year Capstone Project)
+- Oral-Score: A computer-vision AI model to evaluate oral facial muscle performance
 
 ### 💡 Project Experience
 - Orar AIoT Equipment (Feelings & PolyU)
