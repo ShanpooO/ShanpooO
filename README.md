@@ -1,4 +1,4 @@
-##  <center> 👋 Hi, I'm Shanpoo:)👋  <br> 
+##  <center> Hi, I'm Shanpoo:)  <br> 
 
 ### Me
 - Graduated from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
